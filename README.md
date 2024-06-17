@@ -18,7 +18,7 @@ Understanding your audience is crucial when pitching a software project for seve
 
 3. Tailoring your pitch ensures that you communicate in a way that resonates with your audience. 
 
-### How to Tailor Your Pitch:
+#### How to Tailor Your Pitch:
 
 - **Research**: Gather information about your audience’s background, interests, and priorities before the pitch.
   
